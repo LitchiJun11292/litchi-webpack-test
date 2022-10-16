@@ -36,8 +36,5 @@
     "antd": "^4.16.13",
     "babel-cli": "^6.26.0",
     "core-js": "^3.17.3"
-  },
-  "peerDependencies": {
-    "babel-core": "^7.0.0-0"
   }
 }
