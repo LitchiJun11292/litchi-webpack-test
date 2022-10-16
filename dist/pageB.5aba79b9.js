@@ -1,0 +1,1 @@
+(()=>{"use strict";window.b=4,console.log("world")})();
